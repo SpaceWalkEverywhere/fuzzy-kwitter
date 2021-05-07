@@ -1,1 +1,1 @@
-# fuzzy-kwitter
+# kwitter
